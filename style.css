@@ -63,7 +63,7 @@ input {
     border-radius: 5px;
     cursor: pointer;
     width: 100%;
-    margin-bottom: 10px; /* Add margin-bottom */
+    margin-bottom: 10px; 
 }
 .btn-signup:hover,
 .btn-signin:hover {
@@ -72,7 +72,7 @@ input {
 
 .already-have-account a {
     text-decoration: none;
-    color: #28a745; /* Green color */
+    color: #28a745; 
     font-weight: bold;
 }
 
@@ -84,11 +84,4 @@ input {
 .switch a {
     text-decoration: none;
     color: #218838;
-}
-img {
-    width: 100%;
-    max-width: 100%;
-    height: auto; /* This maintains the image's aspect ratio */
-    display: block; /* Remove extra space below the image */
-    margin: 0 auto; /* Center the image horizontally */
 }
